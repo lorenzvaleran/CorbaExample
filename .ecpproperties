@@ -1,0 +1,18 @@
+#ECP Compilation Preferences
+#Fri Jul 07 10:28:29 CEST 2017
+.CUSTOM_OPTIONS=false
+.INCLUDE_PATHS=
+.GENERATE_STUBS=true
+.GENERATE_TIES=false
+.COMPILE=false
+Idl/test.idl.INCLUDE_PATHS=
+Idl/test.idl.GENERATE_TIES=false
+Idl/test.idl.CUSTOM_OPTIONS=false
+.INVOKE_COMPILERS=
+.OUTPUT_DIRECTORY=
+.GENERATE_SKELETONS=false
+Idl/test.idl.COMPILE=false
+Idl/test.idl.GENERATE_SKELETONS=false
+Idl/test.idl.GENERATE_STUBS=true
+Idl/test.idl.OUTPUT_DIRECTORY=
+Idl/test.idl.INVOKE_COMPILERS=

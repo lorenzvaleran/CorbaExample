@@ -1,0 +1,6 @@
+interface CPULoad {
+  void getLoadAvgs(out float oneMinAvg,
+                   out float fiveMinAvg,
+                   out float tenMinAvg);
+};
+
